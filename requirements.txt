@@ -1,0 +1,7 @@
+numpy
+pandas
+minisom
+scikit-learn
+matplotlib
+mlxtend
+seaborn
